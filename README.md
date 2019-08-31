@@ -1,6 +1,6 @@
 # :presentation_name
 
-Skeleton for Reveal.js presentations.
+:presentation_description
 
 **Setup**
 
