@@ -1,0 +1,28 @@
+{
+  "name": "slides-handling-exceptional-conditions",
+  "version": "2.0.0",
+  "private": true,
+  "devDependencies": {
+    "coffeelint": "^1.16.0",
+    "grunt": "^1.0.4",
+    "grunt-coffeelint": "0.0.16",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "load-grunt-tasks": "^3.5.2"
+  },
+  "engines": {
+    "node": ">=4",
+    "yarn": ">= 1.0.0"
+  },
+  "dependencies": {
+    "@bower_components/components-font-awesome": "components/font-awesome#~4.7.0",
+    "@bower_components/headjs": "headjs/headjs#~1.0.3",
+    "@bower_components/highlightjs": "components/highlightjs#^9.0.0",
+    "@bower_components/reveal.js": "hakimel/reveal.js#dev"
+  },
+  "scripts": {
+    "grunt": "grunt"
+  }
+}
