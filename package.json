@@ -1,6 +1,7 @@
 {
-  "name": "slides-handling-exceptional-conditions",
-  "version": "2.0.0",
+  "name": ":presentation_name",
+  "description": ":presentation_description",
+  "author": ":author_name <:author_email> (:author_website)",
   "private": true,
   "devDependencies": {
     "coffeelint": "^1.16.0",
