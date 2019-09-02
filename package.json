@@ -18,10 +18,10 @@
     "yarn": ">= 1.0.0"
   },
   "dependencies": {
-    "@bower_components/components-font-awesome": "components/font-awesome#~4.7.0",
-    "@bower_components/headjs": "headjs/headjs#~1.0.3",
-    "@bower_components/highlightjs": "components/highlightjs#^9.0.0",
-    "@bower_components/reveal.js": "hakimel/reveal.js#dev"
+    "font-awesome": "~4.7.0",
+    "headjs": "~1.0.3",
+    "highlightjs": "^9.0.0",
+    "reveal.js": "dev"
   },
   "scripts": {
     "grunt": "grunt"
