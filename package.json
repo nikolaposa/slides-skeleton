@@ -21,7 +21,7 @@
     "font-awesome": "~4.7.0",
     "headjs": "~1.0.3",
     "highlightjs": "^9.0.0",
-    "reveal.js": "dev"
+    "reveal.js": "hakimel/reveal.js#dev"
   },
   "scripts": {
     "grunt": "grunt"
