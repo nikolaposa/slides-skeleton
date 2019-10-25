@@ -65,7 +65,8 @@ module.exports = (grunt) ->
                     expand: true
                     src: [
                         'slides/**'
-                        'node_modules/@bower_components/**'
+                        'node_modules/reveal.js/**'
+                        'node_modules/highlightjs/**'
                         'js/**'
                         'resources/**'
                     ]
