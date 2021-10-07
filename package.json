@@ -4,7 +4,7 @@
   "author": ":author_name <:author_email> (:author_website)",
   "private": true,
   "devDependencies": {
-    "coffeelint": "^1.16.0",
+    "coffeelint": "^2.1.0",
     "grunt": "^1.0.4",
     "grunt-coffeelint": "0.0.16",
     "grunt-contrib-connect": "^1.0.2",
